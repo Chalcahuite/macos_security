@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/local/bin/managed_python3
 # filename: generate_guidance.py
 # description: Process a given baseline, and output guidance files
 import types

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/local/bin/managed_python3
 import argparse
 import sys
 import os
